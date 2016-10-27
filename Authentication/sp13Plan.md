@@ -6,3 +6,6 @@ User obtains a digitally signed security token from a commonly trusted identity 
 When you use claims-based authentication, all supported authentication methods are available for your web applications and you can take advantage of new features and scenarios in SharePoint 2013 that use server-to-server authentication and app authentication.
 
 > For claims-based authentication, SharePoint 2013 automatically changes all user accounts to claims identities.
+
+_References:_
+ - _[Claims-based Identity for Windows (white paper)](http://go.microsoft.com/fwlink/p/?LinkId=198942)_
