@@ -6,4 +6,8 @@ __Get Service Application Pool__
 ```powershell 
 Service Application Pool:  Get-SPServiceApplicationPool | select Id, Name 
 ```
-
+__Start/Stop Timer Service__
+```powershell
+net stop SPTimerV4
+net stop SPAdminV4
+```
