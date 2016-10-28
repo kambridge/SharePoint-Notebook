@@ -11,3 +11,7 @@ __Start/Stop Timer Service__
 net stop SPTimerV4
 net stop SPAdminV4
 ```
+__Change Usage & Health Data Rentention Policy__
+```powershell
+Get-SPUsageDefinition | ForEach-Object { if ($_.Enabled -eq “False”) { Set-SPUsageDefinition -Identity $_.Name -DaysRetained 1 }}
+```
