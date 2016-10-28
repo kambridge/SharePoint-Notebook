@@ -30,12 +30,12 @@
 - [Prevent CMD from cutting off output](http://answers.microsoft.com/en-us/windows/forum/windows_7-performance/unable-to-scroll-to-the-top-of-the-command-prompt/6f09d0d3-4d8b-490c-87a0-171e68ca8c07)
 - [Conditional Logic](http://www.powershellpro.com/powershell-tutorial-introduction/powershell-tutorial-conditional-logic)
 - [Check Ports: Telnet Commands](https://technet.microsoft.com/en-us/library/bb491013.aspx)
-Using Telnet on WFE (telnet FQDN\Instance 1433)	https://support.terranetwork.net/web/knowledgebase/131/Using-telnet-to-check-port-access.html
-Portqry.exe	https://support.microsoft.com/en-us/kb/310099
-Robocopy	https://technet.microsoft.com/en-us/library/cc733145.aspx
-PowerShell: Switch Statement	https://technet.microsoft.com/en-us/library/ff730937.aspx
-New-SPEnterpriseSearchMetadataManagedProperty	https://technet.microsoft.com/en-us/library/ff608089.aspx
-Excel to XML	http://bitwizards.com/blog/november-2010/how-to-export-an-excel-2010-worksheet-to-xml
+- [Using Telnet on WFE (telnet FQDN\Instance 1433)](https://support.terranetwork.net/web/knowledgebase/131/Using-telnet-to-check-port-access.html)
+- [Portqry.exe](https://support.microsoft.com/en-us/kb/310099)
+- [Robocopy](https://technet.microsoft.com/en-us/library/cc733145.aspx)
+- [PowerShell: Switch Statement](https://technet.microsoft.com/en-us/library/ff730937.aspx)
+- [New-SPEnterpriseSearchMetadataManagedProperty](https://technet.microsoft.com/en-us/library/ff608089.aspx)
+- [Excel to XML](http://bitwizards.com/blog/november-2010/how-to-export-an-excel-2010-worksheet-to-xml)
 Life in PowerShell: PowerShell ISE Color Themes	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0CEMQFjAF&url=http%3A%2F%2Flifeinpowershell.blogspot.com%2F2014%2F03%2Fpowershell-ise-color-themes.html&ei=sG9nVaguyaGDBNjDgYgL&usg=AFQjCNErbYnUafHOZ5UFHJQD5JsJuF_gUA&bvm=bv.93990622,d.eXY
  Web.config file	http://blog-sharepoint.blogspot.com/2009/12/where-is-sharepoint-webconfig.html
 How to Troubleshoot Connecting to the SQL Server Database Engine	http://social.technet.microsoft.com/wiki/contents/articles/2102.how-to-troubleshoot-connecting-to-the-sql-server-database-engine.aspx
